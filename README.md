@@ -6,6 +6,14 @@ Dette er det første prosjektet som FEU1 lager i Emne 4 Javascript og API.
 
 Applikasjonen er en god trening for studentene som fører de gjennom en læringsprosess ved å ta i bruk begreper underveis i grenene av dette prosjektet.
 
+### Lesson 1
+
+### Lesson 2
+
+### Lesson 3
+
+### Lesson 4
+
 ## Hvordan er den laget
 
 Applikasjonen er skrevet i HTML, CSS og Javascript.
