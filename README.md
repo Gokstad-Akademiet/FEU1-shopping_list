@@ -10,6 +10,8 @@ Applikasjonen er en god trening for studentene som fører de gjennom en lærings
 
 Applikasjonen er skrevet i HTML, CSS og Javascript.
 
+Kodingen av dette prosjektet forutsetter at du har en grunnleggende forståelse for HTML og CSS, samt startet med noe opplæring av Javascript.
+
 ## Problemer?
 
 Legg igjen en issue på github.
